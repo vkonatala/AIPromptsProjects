@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(git:*)",
+      "Shell(git config user.name \"vkonatala\" && git config user.email \"vkonatala@users.noreply.github.com\" && git add -A && git commit -F - <<'EOF' Initial commit: AI Tester automation framework and prompt templates Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
